@@ -4,7 +4,8 @@
   * btnCapNhatQuyen() function sharing with multiple people, multiple files.
 
 * Workflow: 
-![Picture1](https://github.com/lovegreen21/Risk-Assessment-Report/assets/129417444/893405bd-b633-40e2-b1ec-0a04ea7c85d2)
+![Picture1](https://github.com/lovegreen21/Risk-Assessment-Report/assets/129417444/1522dbb0-b379-447c-bb69-bf767e6fe3ec)
+
 
 
 * Sheet contains file link:
